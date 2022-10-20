@@ -6,7 +6,6 @@
  * Return: the absolute value
  *
  */
-
 int _abs(int a)
 {
 	int k = a;
